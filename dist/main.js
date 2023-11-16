@@ -1,1 +1,1 @@
-console.log("Hello World!");
+(()=>{var o={4:o=>{o.exports=function(){console.log("hi")}}},r={};function e(t){var n=r[t];if(void 0!==n)return n.exports;var s=r[t]={exports:{}};return o[t](s,s.exports,e),s.exports}(()=>{const o=e(4);console.log("Hello World!"),o()})()})();
